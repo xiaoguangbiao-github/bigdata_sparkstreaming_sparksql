@@ -1,0 +1,6 @@
+1 zhangsan 20
+2 lisi 29
+3 wangwu 25
+4 zhaoliu 30
+5 tianqi 35
+6 kobe 40
